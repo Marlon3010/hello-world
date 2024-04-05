@@ -50,4 +50,10 @@ if start_button:
     st.session_state['df_experiment_results'] = \\
         st.session_state['df_experiment_results'].reset_index(drop=True)
 
+<<<<<<< HEAD
 st.write(st.session_state['df_experiment_results'])
+=======
+st.write(st.session_state['df_experiment_results'])
+
+Hola
+>>>>>>> 37ab4ceb1e3cf96107d0b0d39f3bef0ee55207ba
